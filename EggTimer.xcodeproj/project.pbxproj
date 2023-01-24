@@ -14,6 +14,7 @@
 		87F281C6298005AC008FA43B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 87F281C5298005AC008FA43B /* Assets.xcassets */; };
 		87F281C9298005AC008FA43B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 87F281C7298005AC008FA43B /* LaunchScreen.storyboard */; };
 		87F281D129800B6D008FA43B /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 87F281D029800B6D008FA43B /* alarm_sound.mp3 */; };
+		87F281D329800F8C008FA43B /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 87F281D229800F8C008FA43B /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		87F281C8298005AC008FA43B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		87F281CA298005AC008FA43B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		87F281D029800B6D008FA43B /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = alarm_sound.mp3; path = "../../UdemyCourseProjects/EggTimer-iOS13/EggTimer/alarm_sound.mp3"; sourceTree = "<group>"; };
+		87F281D229800F8C008FA43B /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +44,7 @@
 		87F281B0298005AB008FA43B = {
 			isa = PBXGroup;
 			children = (
+				87F281D229800F8C008FA43B /* .gitignore */,
 				87F281BB298005AB008FA43B /* EggTimer */,
 				87F281BA298005AB008FA43B /* Products */,
 			);
@@ -128,6 +131,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				87F281D329800F8C008FA43B /* .gitignore in Resources */,
 				87F281C9298005AC008FA43B /* LaunchScreen.storyboard in Resources */,
 				87F281C6298005AC008FA43B /* Assets.xcassets in Resources */,
 				87F281D129800B6D008FA43B /* alarm_sound.mp3 in Resources */,
